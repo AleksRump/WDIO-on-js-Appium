@@ -1,0 +1,4 @@
+{
+  "using": "accessibility id",
+  "value": "com.example.tkontsevich.diceroller:id/roll_button"
+}
